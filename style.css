@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 @font-face {
     font-family: chasquilla;
-    src:url(fuentes/dfdChasquilla.otf);
+    src:url(dfdChasquilla.otf);
 }
 
 div#chart.rutapatrimonial{
